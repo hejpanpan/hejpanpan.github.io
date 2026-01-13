@@ -1,10 +1,10 @@
 # hejpanpan.github.io
 
-欢迎来到我的个人网站仓库。本站基于 GitHub Pages 部署，使用 HTML/CSS/JavaScript 构建，展示我的个人简介、作品集、文章与联系方式等信息。
+欢迎来到我的个人网站。本站基于 GitHub Pages 部署，使用 HTML/CSS/JavaScript 构建，展示我的个人简介、作品集、文章与联系方式等信息。
 
 ## Homepage
 
-- Hi, I'm PanPan — a  passionate about GARO(ガロ) manga， shibari（Japanese bandage art）, pixel art, and language learning. I define myself as a lifelong learner, thriving on turning curiosity and ideas into clear, practical outcomes.
+- Hi, I'm PanPan — a  passionate about GARO(ガロ) manga,shibari(Japanese bandage art), pixel art, language learning. I define myself as a lifelong learner thriving on turning curiosity and ideas into clear, practical outcomes.
 - Welcome to my personal website. Here you’ll find my projects, writings, and ways to get in touch.
 
 ---
@@ -31,7 +31,7 @@
 
 ---
 
-## Contact（
+## Contact
 联系渠道
 - Email: hejpanpan@gmail.com
 - GitHub: https://github.com/hejpanpan
