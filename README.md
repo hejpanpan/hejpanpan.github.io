@@ -1,4 +1,4 @@
-# hejpanpan.github.io
+# hejpanpan
 
 欢迎来到我的个人网站。本站基于 GitHub Pages 部署，使用 HTML/CSS/JavaScript 构建，展示我的个人简介、作品集、文章与联系方式等信息。
 
