@@ -11,11 +11,8 @@
 
 ## Projects
 
-- Shibari girl in wuhan(2025-)
-  - 描述：一个简短的项目描述(暂且无）
-  - 技术栈：HTML, CSS, JavaScript, React
-  - 链接：https://github.com/hejpanpan/Shibari girl in wuhan(2025-)
-
+- Shibari learning(2025-)
+  
 目录导航（页面内导航示例）：
 - `projects/`
   - `index.html`
@@ -39,5 +36,4 @@
 - ig@hejpanpan
 
 
----
 
