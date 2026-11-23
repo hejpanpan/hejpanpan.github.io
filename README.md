@@ -1,39 +1,49 @@
-# hejpanpan
+# Hi, I’m Pan 👋
 
-欢迎来到我的个人网站。本站基于 GitHub Pages 部署，使用 HTML/CSS/JavaScript 构建，展示我的个人简介、作品集、文章与联系方式等信息。
+I’m an independent researcher and lifelong learner exploring
+how bodies, knowledge, memory, and technology shape our experience
+of the world.
 
-## Homepage
+我是 Pan，一名独立研究者与终身学习者。我正在探索身体、知识、
+记忆与技术如何塑造我们对世界的经验。
 
-- Hi, I'm PanPan — a  passionate about GARO(ガロ) manga,shibari(Japanese bandage art), pixel art, language learning. I define myself as a lifelong learner thriving on turning curiosity and ideas into clear, practical outcomes.
-- Welcome to my personal website. Here you’ll find my projects, writings, and ways to get in touch.
+## Questions I’m exploring | 我正在探索的问题
 
----
+- How do our bodies shape what we know?
+  身体如何影响我们认识世界的方式？
 
-## Projects
+- How do people find belonging across different cultures,
+  beliefs, and ways of living?
+  人如何在不同文化、信仰与生活方式之间寻找归属？
 
-- Shibari learning(2025-)
-  
-目录导航（页面内导航示例）：
-- `projects/`
-  - `index.html`
-  - `project-a.html`
-  - `project-b.html`
+- How can interactive experiences help us learn, remember,
+  and reflect?
+  互动体验如何帮助我们学习、记忆与思考？
 
----
+## Current explorations | 目前的探索
 
-## Articles
+📚 **Philosophy and religion**
+Reading and learning about philosophy, religious studies,
+and ways of interpreting texts.
 
-- 2026-1-31 —
+哲学与宗教：学习哲学、宗教学与文本诠释。
 
+🎮 **Memory palace and language learning**
+Exploring an idea for a 2D interactive experience that combines
+spatial memory and language learning.
 
----
+记忆宫殿与语言学习：探索将空间记忆与语言学习结合的
+2D 互动体验。
 
-## Contact
-联系渠道
-- Email: hejpanpan@gmail.com
-- GitHub: https://github.com/hejpanpan
-- Twitter/X: https://twitter.com/hejpanpan
-- ig@hejpanpan
+💻 **Creative technology**
+Learning programming fundamentals as a foundation for future
+interactive projects.
 
+创意技术：学习编程基础，为未来的互动项目做准备。
 
+## Work in progress | 持续更新中
 
+This space will gradually collect my reading notes,
+small experiments, and creative projects.
+
+这里会逐步整理我的阅读笔记、小型实验和创作项目。
